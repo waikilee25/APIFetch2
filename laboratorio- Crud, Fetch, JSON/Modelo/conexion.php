@@ -3,10 +3,9 @@
 class DB {
     // Configuración de la base de datos
     private static $host     = "localhost";
-    
     private static $dbname   = "productosdb";
     private static $user     = "root";
-    private static $password = "";
+    private static $password = " ";
     
 
     // Instancia única (patrón Singleton)
